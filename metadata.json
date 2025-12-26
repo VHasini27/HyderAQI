@@ -1,0 +1,7 @@
+{
+  "name": "Copy of HyderAQI - Hyderabad Air Quality Monitor",
+  "description": "A comprehensive real-time air quality dashboard for Hyderabad featuring AI-driven health insights, pollutant analysis, and historical trends.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
